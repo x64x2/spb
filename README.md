@@ -1,11 +1,8 @@
-# Point-and-shoot bruteforcer
 
 Point to a URL, template the payload, set a wordlist, and launch.
 
-![Exmaple usage](./example.png)
-
 ```
-Usage of ./gorpedo:
+Usage of ./gbrd:
   -continue
     	continue from last saved progress
   -form string
